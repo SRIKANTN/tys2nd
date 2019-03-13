@@ -35,7 +35,7 @@ public class demoTest extends Listener_demo
 	public void TestToFail()				
 	{		
 	    System.out.println("This method to test fail");					
-	    Assert.assertTrue(false);			
+	   // Assert.assertTrue(false);			
 	}		
 
 }
